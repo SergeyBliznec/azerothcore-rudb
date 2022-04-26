@@ -17,7 +17,3 @@ mysql -u{username} -p {world} < quest_offer_reward_locale.sql
 mysql -u{username} -p {world} < quest_request_items_locale.sql
 
 mysql -u{username} -p {world} < quest_template_locale.sql
-
-или для импорта всех файлов
-
-mysql -u{username} -p {world} < *.sql
