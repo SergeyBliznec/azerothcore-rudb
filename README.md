@@ -19,3 +19,5 @@ mysql -u{username} -p {world} < quest_request_items_locale.sql
 mysql -u{username} -p {world} < quest_template_locale.sql
 
 mysql -u{username} -p {world} < gameobject_template_locale.sql
+
+mysql -u{username} -p {world} < page_text_locale.sql
